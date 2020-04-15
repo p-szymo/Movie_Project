@@ -1,0 +1,248 @@
+,title,network,imdb_rating,num_imdb_ratings,rt_critic_rating,rt_audience_rating,genres,tv_rating,release_year,runtime_mins,rt_season_ratings,imdb_url
+0,La Casa de Papel,Netflix,8.5,215007,91.0,82.0,"['action', 'crime', 'mystery', 'thriller']",TV-MA,2017.0,70.0,"[nan, 100, 100, 75]",https://www.imdb.com/title/tt6468322/
+1,Ozark,Netflix,8.4,136710,81.0,91.0,"['crime', 'drama', 'thriller']",TV-MA,2017.0,60.0,"[70, 76, 97]",https://www.imdb.com/title/tt5071412/
+2,Tiger King,Netflix,7.8,33700,86.0,86.0,"['documentary', 'crime']",TV-MA,2020.0,31.0,[86],https://www.imdb.com/title/tt11823076/
+3,Westworld,HBO,8.7,388252,85.0,80.0,"['drama', 'mystery', 'sci-fi', 'western']",TV-MA,2016.0,62.0,"[87, 86, 83]",https://www.imdb.com/title/tt0475784/
+4,The Walking Dead,AMC,8.2,821809,81.0,78.0,"['drama', 'horror', 'thriller']",TV-MA,2010.0,44.0,"[88, 83, 90, 76, 64, 64, 91, 91]",https://www.imdb.com/title/tt1520211/
+5,Community,NBC,8.5,185048,88.0,88.0,['comedy'],TV-14,2009.0,22.0,"[90, 100, 91, 65, 93, 89]",https://www.imdb.com/title/tt1439629/
+6,Better Call Saul,AMC,8.7,280536,97.0,96.0,"['crime', 'drama']",TV-MA,2015.0,46.0,"[97, 97, 97, 99, 99]",https://www.imdb.com/title/tt3032476/
+7,Unorthodox,Netflix,8.2,15568,93.0,94.0,['drama'],TV-MA,2020.0,21.0,[93],https://www.imdb.com/title/tt9815454/
+8,Game of Thrones,HBO,9.3,1658978,89.0,86.0,"['action', 'adventure', 'drama', 'fantasy', 'romance']",TV-MA,2011.0,57.0,"[90, 96, 96, 97, 93, 94, 93, 58]",https://www.imdb.com/title/tt0944947/
+9,Tales from the Loop,Amazon,7.5,3362,82.0,79.0,"['drama', 'sci-fi']",TV-MA,2020.0,50.0,[82],https://www.imdb.com/title/tt8741290/
+10,Breaking Bad,AMC,9.5,1332330,96.0,98.0,"['crime', 'drama', 'thriller']",TV-MA,2008.0,49.0,"[86, 97, 100, 100, 97]",https://www.imdb.com/title/tt0903747/
+11,Grey's Anatomy,ABC,7.6,231121,83.0,80.0,"['drama', 'romance']",TV-14,2005.0,41.0,"[100, 91, 91, 100, 89, 93, 100, 100]",https://www.imdb.com/title/tt0413573/
+12,Homeland,Showtime,8.3,293795,85.0,86.0,"['crime', 'drama', 'mystery', 'thriller']",TV-MA,2011.0,55.0,"[100, 93, 80, 81, 88, 78, 80, 84]",https://www.imdb.com/title/tt1796960/
+13,The Office,NBC,8.9,348547,81.0,92.0,['comedy'],TV-14,2005.0,22.0,"[100, 100, 83, 100, 73, 83, 44, 78]",https://www.imdb.com/title/tt0386676/
+14,Schitt's Creek,POP,8.3,30569,92.0,96.0,['comedy'],TV-14,2015.0,22.0,"[63, 100, nan, 100, nan, 100, 100]",https://www.imdb.com/title/tt3526078/
+15,Peaky Blinders,Netflix,8.8,276218,92.0,94.0,"['crime', 'drama']",TV-MA,2013.0,60.0,"[87, 100, 100, 93, 84]",https://www.imdb.com/title/tt2442560/
+16,Modern Family,ABC,8.4,325823,85.0,87.0,"['comedy', 'drama', 'romance']",TV-PG,2009.0,22.0,"[67, 90, 100, 67, nan, nan, nan, 83]",https://www.imdb.com/title/tt1442437/
+17,Outlander,Starz,8.4,108101,92.0,90.0,"['drama', 'fantasy', 'romance']",TV-MA,2014.0,64.0,"[91, 92, 93, 88, 96]",https://www.imdb.com/title/tt3006802/
+18,The Mandalorian,Disney+,8.7,153512,93.0,93.0,"['action', 'adventure', 'sci-fi']",TV-PG,2019.0,30.0,[93],https://www.imdb.com/title/tt8111088/
+19,Vikings,History,8.6,383867,93.0,89.0,"['action', 'adventure', 'drama', 'history', 'romance', 'war']",TV-MA,2013.0,44.0,"[82, 93, 100, 92, 91, 100]",https://www.imdb.com/title/tt2306299/
+20,Little Fires Everywhere,Hulu,7.6,2400,78.0,65.0,['drama'],TV-MA,2020.0,53.0,[78],https://www.imdb.com/title/tt8089592/
+21,Homecoming,Amazon Prime Video,7.5,15757,98.0,71.0,"['drama', 'thriller']",TV-MA,2018.0,30.0,[98],https://www.imdb.com/title/tt7008682/
+22,Brooklyn Nine-Nine,FOX; NBC,8.4,186718,97.0,93.0,"['comedy', 'crime']",TV-14,2013.0,22.0,"[89, 100, 93, 100, 100, 100, 100]",https://www.imdb.com/title/tt2467372/
+23,Supernatural,CW,8.4,371347,93.0,86.0,"['drama', 'fantasy', 'horror', 'mystery', 'thriller']",TV-14,2005.0,44.0,"[63, 100, 100, 90, 100, 100, 90, 100]",https://www.imdb.com/title/tt0460681/
+24,All American,CW,7.6,4369,96.0,,"['drama', 'sport']",TV-14,2018.0,45.0,"[92, 100, nan]",https://www.imdb.com/title/tt7414406/
+25,Stranger Things,Netflix,8.8,725728,93.0,91.0,"['drama', 'fantasy', 'horror', 'mystery', 'sci-fi', 'thriller']",TV-14,2016.0,51.0,"[97, 94, 89, nan]",https://www.imdb.com/title/tt4574334/
+26,The Blacklist,NBC,8.0,177735,91.0,89.0,"['crime', 'drama', 'mystery', 'thriller']",TV-14,2013.0,43.0,"[82, 83, 93, 90, 100, 100, nan]",https://www.imdb.com/title/tt2741602/
+27,Killing Eve,BBC America/AMC,8.3,65731,92.0,88.0,"['action', 'adventure', 'drama', 'thriller']",TV-14,2018.0,42.0,"[96, 93, 87]",https://www.imdb.com/title/tt7016936/
+28,Friends,NBC,8.9,750880,78.0,94.0,"['comedy', 'romance']",TV-14,1994.0,22.0,"[nan, nan, 100, 100, nan, 100, 20, 86]",https://www.imdb.com/title/tt0108778/
+29,Star Trek: Picard,CBS,7.7,30229,87.0,60.0,"['action', 'adventure', 'drama', 'sci-fi']",TV-MA,2020.0,46.0,[87],https://www.imdb.com/title/tt8806524/
+30,Black Mirror,Netflix,8.8,392377,83.0,81.0,"['drama', 'sci-fi', 'thriller']",TV-MA,2011.0,60.0,"[98, 87, 89, 86, 85, 72, 68]",https://www.imdb.com/title/tt2085059/
+31,Lucifer,FOX/Netflix ,8.2,190032,87.0,85.0,"['crime', 'drama', 'fantasy']",TV-14,2015.0,42.0,"[49, 100, 100, 100]",https://www.imdb.com/title/tt4052886/
+32,Devs,Hulu,7.9,5097,81.0,69.0,"['drama', 'mystery', 'sci-fi', 'thriller']",TV-MA,2020.0,50.0,[81],https://www.imdb.com/title/tt8134186/
+33,Criminal Minds,CBS,8.1,148106,87.0,,"['crime', 'drama', 'mystery', 'thriller']",TV-14,2005.0,42.0,"[nan, nan, nan, nan, nan, nan, nan, nan]",https://www.imdb.com/title/tt0452046/
+35,Elite,Netflix,7.6,33723,97.0,88.0,"['crime', 'drama', 'thriller']",TV-MA,2018.0,60.0,"[100, 91, 100]",https://www.imdb.com/title/tt7134908/
+36,The Witcher,Netflix,8.3,242899,67.0,92.0,"['action', 'adventure', 'drama', 'fantasy', 'horror', 'mystery']",TV-MA,2019.0,60.0,"[67, nan]",https://www.imdb.com/title/tt5180504/
+37,Rick and Morty,Cartoon Network,9.2,330309,95.0,94.0,"['animation', 'adventure', 'comedy', 'sci-fi']",TV-14,2013.0,23.0,"[96, 91, 96, 100]",https://www.imdb.com/title/tt2861424/
+38,The Wire,HBO,9.3,263663,94.0,97.0,"['crime', 'drama', 'thriller']",TV-MA,2002.0,59.0,"[85, 95, 100, 100, 93]",https://www.imdb.com/title/tt0306414/
+39,Home Before Dark,Apple TV+,7.6,1430,80.0,95.0,"['crime', 'drama', 'mystery']",TV-14,2020.0,54.0,[80],https://www.imdb.com/title/tt6053512/
+40,The Big Show Show,Netflix,6.5,863,84.0,,['comedy'],unrated,2020.0,25.0,[nan],https://www.imdb.com/title/tt10726356/
+41,The Sopranos,HBO,9.2,273689,92.0,98.0,"['crime', 'drama']",TV-MA,1999.0,55.0,"[100, 94, 100, 91, 92, 89, 83]",https://www.imdb.com/title/tt0141842/
+42,Dark,Netflix,8.7,168730,94.0,94.0,"['crime', 'drama', 'mystery', 'sci-fi', 'thriller']",TV-MA,2017.0,60.0,"[89, 100]",https://www.imdb.com/title/tt5753856/
+43,The Flash,CW,7.7,293837,89.0,71.0,"['action', 'adventure', 'drama', 'sci-fi']",TV-PG,2014.0,43.0,"[92, 94, 85, 79, 94, 91]",https://www.imdb.com/title/tt3107288/
+44,Sex Education,Netflix,8.3,125342,94.0,,"['comedy', 'drama']",TV-MA,2019.0,45.0,"[91, 97, nan]",https://www.imdb.com/title/tt7767422/
+45,Hunters,SyFy,7.2,19577,59.0,,"['crime', 'drama', 'mystery']",TV-MA,2020.0,60.0,[nan],https://www.imdb.com/title/tt7456722/
+46,Fargo,FX,8.9,297634,96.0,93.0,"['crime', 'drama', 'thriller']",TV-MA,2014.0,53.0,"[97, 100, 93, nan]",https://www.imdb.com/title/tt2802850/
+47,Prison Break,FOX,8.3,448235,60.0,77.0,"['action', 'crime', 'drama', 'mystery', 'thriller']",TV-14,2005.0,44.0,"[77, 71, 50, 50, 55]",https://www.imdb.com/title/tt0455275/
+48,Future Man,Hulu,7.8,17792,91.0,83.0,"['action', 'adventure', 'comedy', 'fantasy', 'sci-fi']",TV-MA,2017.0,30.0,"[82, 100, nan]",https://www.imdb.com/title/tt4975856/
+49,Hawaii Five-0,CBS,7.3,64314,72.0,,"['action', 'crime', 'drama']",TV-14,2010.0,42.0,"[nan, 100, nan, nan, nan, nan, nan, nan]",https://www.imdb.com/title/tt1600194/
+50,The Outsider,HBO,8.0,41430,82.0,85.0,"['crime', 'drama', 'fantasy', 'mystery', 'thriller']",TV-MA,2020.0,60.0,[82],https://www.imdb.com/title/tt8550800/
+51,Law & Order: Special Victims Unit,NBC,8.0,75227,93.0,,"['crime', 'drama', 'mystery', 'thriller']",TV-14,1999.0,60.0,"[nan, nan, nan, nan, nan, nan, 100, nan]",https://www.imdb.com/title/tt0203259/
+52,Altered Carbon,Netflix,8.1,129504,76.0,64.0,"['action', 'drama', 'sci-fi', 'thriller']",TV-MA,2018.0,60.0,"[68, 85]",https://www.imdb.com/title/tt2261227/
+53,The Good Doctor,ABC,8.2,54676,85.0,,['drama'],TV-14,2017.0,41.0,"[63, nan, nan]",https://www.imdb.com/title/tt6470478/
+54,Suits,USA,8.5,345074,90.0,86.0,"['comedy', 'drama']",TV-14,2011.0,44.0,"[85, 83, 100, 100, 100, 93, 100, 80]",https://www.imdb.com/title/tt1632701/
+55,The Handmaid's Tale,Hulu,8.5,150533,88.0,77.0,"['drama', 'sci-fi', 'thriller']",TV-MA,2017.0,60.0,"[94, 89, 81, nan]",https://www.imdb.com/title/tt5834204/
+56,Legacies,CW,7.5,14928,84.0,,"['adventure', 'drama', 'fantasy', 'horror', 'mystery']",TV-14,2018.0,45.0,"[82, nan, nan]",https://www.imdb.com/title/tt8103070/
+57,Freud,Netflix,6.6,5575,50.0,,['crime'],TV-MA,2020.0,55.0,[50],https://www.imdb.com/title/tt8667956/
+58,How to Get Away with Murder,ABC,8.1,113146,90.0,86.0,"['crime', 'drama', 'mystery', 'thriller']",TV-14,2014.0,43.0,"[85, 93, 90, 100, 83, nan]",https://www.imdb.com/title/tt3205802/
+59,Star Wars: The Clone Wars,Cartoon Network,8.1,47214,93.0,90.0,"['animation', 'action', 'adventure', 'drama', 'fantasy', 'sci-fi']",TV-PG,2008.0,23.0,"[67, nan, 100, nan, 100, 100, 100]",https://www.imdb.com/title/tt0458290/
+60,Shameless,Showtime,8.6,188173,85.0,83.0,"['comedy', 'drama']",TV-MA,2011.0,46.0,"[92, 100, 92, 100, 88, 100, 70, 40]",https://www.imdb.com/title/tt1586680/
+61,Locke & Key,Netflix,7.4,28620,66.0,70.0,"['drama', 'fantasy', 'horror', 'thriller']",TV-14,2020.0,48.0,"[66, nan]",https://www.imdb.com/title/tt3007572/
+62,American Horror Story,FX,8.1,264112,76.0,,"['drama', 'horror', 'thriller']",TV-MA,2011.0,60.0,"[84, 83, 78, 64, 74, 73, 75, 87]",https://www.imdb.com/title/tt1844624/
+63,Mad Men,AMC,8.6,193015,94.0,96.0,['drama'],TV-14,2007.0,47.0,"[85, 100, 97, 94, 97, 98, 89]",https://www.imdb.com/title/tt0804503/
+64,The Crown,Netflix,8.7,109909,89.0,90.0,"['drama', 'history']",TV-MA,2016.0,58.0,"[89, 89, 90, nan]",https://www.imdb.com/title/tt4786824/
+65,Chernobyl,HBO,9.4,442470,96.0,98.0,"['drama', 'history', 'thriller']",TV-MA,2019.0,33.0,[96],https://www.imdb.com/title/tt7366338/
+66,NCIS,CBS,7.8,113655,87.0,,"['action', 'crime', 'drama', 'mystery', 'thriller']",TV-14,2003.0,44.0,"[nan, nan, nan, nan, nan, nan, nan, nan]",https://www.imdb.com/title/tt0364845/
+67,The 100,CW,7.7,191640,92.0,78.0,"['drama', 'mystery', 'sci-fi']",TV-14,2014.0,43.0,"[76, 100, 83, 93, 100, 100]",https://www.imdb.com/title/tt2661044/
+68,Zoey's Extraordinary Playlist,NBC,7.9,4191,74.0,84.0,"['comedy', 'drama', 'musical']",TV-14,2020.0,60.0,[74],https://www.imdb.com/title/tt10314462/
+69,The Rookie,ABC,8.0,15259,68.0,96.0,"['comedy', 'crime', 'drama']",TV-14,2018.0,43.0,"[68, nan]",https://www.imdb.com/title/tt7587890/
+70,This Is Us,NBC,8.7,91313,92.0,85.0,"['comedy', 'drama', 'romance']",TV-14,2016.0,45.0,"[92, 92, 94, 90]",https://www.imdb.com/title/tt5555260/
+71,The Big Bang Theory,CBS,8.1,684180,82.0,81.0,"['comedy', 'romance']",TV-14,2007.0,22.0,"[100, 67, 100, 67, 67, 83, 75, 82]",https://www.imdb.com/title/tt0898266/
+72,True Detective,HBO,9.0,471428,78.0,78.0,"['crime', 'drama', 'mystery', 'thriller']",TV-MA,2014.0,55.0,"[87, 62, 85]",https://www.imdb.com/title/tt2356777/
+73,Sherlock,PBS,9.1,754631,78.0,83.0,"['crime', 'drama', 'mystery', 'thriller']",TV-14,2010.0,88.0,"[93, 94, 91, 61, 55]",https://www.imdb.com/title/tt1475582/
+74,The English Game,Netflix,7.7,6007,50.0,88.0,['sport'],unrated,2020.0,44.0,[50],https://www.imdb.com/title/tt8403664/
+75,You,Netflix,7.8,118269,90.0,81.0,"['crime', 'drama', 'romance', 'thriller']",TV-MA,2018.0,45.0,"[93, 88, nan]",https://www.imdb.com/title/tt7335184/
+76,The Simpsons,FOX,8.7,349254,85.0,77.0,"['animation', 'comedy']",TV-PG,1989.0,22.0,"[33, 71, 75, 80, nan, 99, nan, nan]",https://www.imdb.com/title/tt0096697/
+77,Lost,ABC,8.3,472317,85.0,92.0,"['adventure', 'drama', 'fantasy', 'mystery', 'sci-fi', 'thriller']",TV-14,2004.0,44.0,"[94, 100, 71, 88, 90, 68]",https://www.imdb.com/title/tt0411008/
+78,The Boys,CBS,8.7,138556,33.0,,"['action', 'comedy', 'crime', 'sci-fi']",TV-MA,2019.0,60.0,[nan],https://www.imdb.com/title/tt1190634/
+80,Narcos,Netflix,8.8,325547,89.0,94.0,"['biography', 'crime', 'drama', 'thriller']",TV-MA,2015.0,49.0,"[80, 92, 97]",https://www.imdb.com/title/tt2707408/
+81,The Vampire Diaries,CW,7.7,269768,86.0,84.0,"['drama', 'fantasy', 'horror', 'mystery', 'romance', 'thriller']",TV-14,2009.0,43.0,"[71, 100, 90, 69, 100, 81, 77, 100]",https://www.imdb.com/title/tt1405406/
+82,Manifest,NBC,7.2,19120,57.0,76.0,"['drama', 'mystery']",TV-14,2018.0,43.0,"[57, nan]",https://www.imdb.com/title/tt8421350/
+83,Chicago P.D.,NBC,8.1,25162,85.0,,"['action', 'crime', 'drama', 'thriller']",TV-14,2014.0,43.0,"[61, nan, nan, nan, nan, nan, nan]",https://www.imdb.com/title/tt2805096/
+84,How I Met Your Mother,CBS,8.3,569198,83.0,83.0,"['comedy', 'romance']",TV-14,2005.0,22.0,"[nan, 100, 100, 100, 100, 78, 54, 75]",https://www.imdb.com/title/tt0460649/
+85,Parks and Recreation,NBC,8.6,193018,92.0,91.0,['comedy'],TV-14,2009.0,22.0,"[68, 96, 100, 100, 96, 96, 89]",https://www.imdb.com/title/tt1266020/
+86,Riverdale,CW,7.0,104168,86.0,59.0,"['crime', 'drama', 'mystery', 'romance']",TV-14,2017.0,45.0,"[88, 88, 84, 84, nan]",https://www.imdb.com/title/tt5420376/
+87,Sons of Anarchy,FX,8.6,241891,87.0,91.0,"['crime', 'drama', 'thriller']",TV-MA,2008.0,45.0,"[88, 93, 90, 100, 83, 76, 83]",https://www.imdb.com/title/tt1124373/
+88,Chicago Fire,NBC,7.9,32900,81.0,,"['action', 'drama']",TV-14,2012.0,43.0,"[nan, nan, nan, nan, nan, nan, nan, nan]",https://www.imdb.com/title/tt2261391/
+89,Arrow,CW,7.6,397565,85.0,71.0,"['action', 'adventure', 'crime', 'drama', 'mystery', 'sci-fi']",TV-14,2012.0,42.0,"[85, 95, 89, 85, 88, 64, 88, 91]",https://www.imdb.com/title/tt2193021/
+90,The Stranger,Netflix,7.4,23524,83.0,,"['mystery', 'thriller']",TV-MA,2020.0,42.0,[83],https://www.imdb.com/title/tt9698480/
+91,Succession,HBO,8.5,25684,92.0,92.0,['drama'],TV-MA,2018.0,60.0,"[87, 97]",https://www.imdb.com/title/tt7660850/
+92,House M.D.,FOX,8.7,394820,90.0,96.0,"['drama', 'mystery']",TV-14,2004.0,44.0,"[84, nan, nan, nan, 100, 92, nan, 85]",https://www.imdb.com/title/tt0412142/
+93,Good Girls,NBC,7.9,24826,87.0,85.0,"['comedy', 'crime', 'drama']",TV-14,2018.0,43.0,"[63, 100, 100]",https://www.imdb.com/title/tt6474378/
+94,The Sinner,USA,8.0,71695,95.0,75.0,"['crime', 'drama', 'mystery', 'thriller']",TV-MA,2017.0,45.0,"[90, 97, 100]",https://www.imdb.com/title/tt6048596/
+95,Curb Your Enthusiasm,HBO,8.7,94907,92.0,96.0,['comedy'],TV-MA,2000.0,28.0,"[100, 93, 100, 87, 97, 92, 74, 95]",https://www.imdb.com/title/tt0264235/
+96,Jack Ryan,Amazon Prime Video,8.1,77617,71.0,71.0,"['action', 'drama', 'thriller']",TV-MA,2018.0,60.0,"[75, 67]",https://www.imdb.com/title/tt5057054/
+97,Psych,USA,8.3,80457,89.0,92.0,"['comedy', 'crime', 'mystery']",TV-PG,2006.0,44.0,"[55, 100, 100, 80, 100, 100, 88, 90]",https://www.imdb.com/title/tt0491738/
+98,The Expanse,SyFy (Seasons 1-3); Amazon Studios,8.5,89785,93.0,96.0,"['drama', 'mystery', 'sci-fi', 'thriller']",TV-14,2015.0,60.0,"[77, 95, 100, 100]",https://www.imdb.com/title/tt3230854/
+99,Mr. Robot,USA,8.5,310388,94.0,94.0,"['crime', 'drama', 'thriller']",TV-MA,2015.0,49.0,"[98, 89, 92, 97]",https://www.imdb.com/title/tt4158110/
+100,Planet Earth II,BBC America,9.5,86650,100.0,97.0,['documentary'],TV-G,2016.0,29.0,[100],https://www.imdb.com/title/tt5491994/
+101,Planet Earth,Discovery Channel,9.4,158876,95.0,100.0,['documentary'],TV-PG,2006.0,53.0,[95],https://www.imdb.com/title/tt0795176/
+102,Band of Brothers,HBO,9.4,349246,94.0,98.0,"['action', 'drama', 'history', 'war']",TV-MA,2001.0,59.0,[94],https://www.imdb.com/title/tt0185906/
+103,Blue Planet II,BBC America,9.3,28145,97.0,89.0,['documentary'],TV-G,2017.0,36.0,[97],https://www.imdb.com/title/tt6769208/
+104,Our Planet,Netflix,9.3,23829,93.0,92.0,['documentary'],TV-G,2019.0,40.0,[93],https://www.imdb.com/title/tt9253866/
+107,Avatar: The Last Airbender,Nickelodeon,9.2,211267,100.0,99.0,"['animation', 'action', 'adventure', 'family', 'fantasy', 'mystery']",TV-Y7,2005.0,23.0,"[100, 100, 100]",https://www.imdb.com/title/tt0417299/
+108,The World at War,ITV,9.1,20410,100.0,,"['documentary', 'history', 'war']",TV-PG,1973.0,52.0,[nan],https://www.imdb.com/title/tt0071075/
+109,Life,NBC,9.1,36412,70.0,88.0,['documentary'],TV-G,2009.0,47.0,"[55, 86]",https://www.imdb.com/title/tt1533395/
+110,The Vietnam War,PBS,9.1,16728,96.0,96.0,"['documentary', 'history', 'war']",TV-MA,2017.0,99.0,[96],https://www.imdb.com/title/tt1877514/
+111,Fullmetal Alchemist: Brotherhood,Cartoon Network,9.1,102557,100.0,94.0,"['animation', 'action', 'adventure', 'comedy', 'drama', 'fantasy', 'sci-fi']",TV-14,2009.0,24.0,[100],https://www.imdb.com/title/tt1355642/
+112,The Twilight Zone,CBS,9.0,66360,82.0,96.0,"['drama', 'fantasy', 'horror', 'mystery', 'sci-fi', 'thriller']",TV-PG,1959.0,51.0,"[100, 92, 82, 57, 79]",https://www.imdb.com/title/tt0052520/
+117,Batman: The Animated Series,FOX,9.0,81342,95.0,98.0,"['animation', 'action', 'adventure', 'family', 'sci-fi']",TV-PG,1992.0,23.0,"[95, nan]",https://www.imdb.com/title/tt0103359/
+118,Firefly,Fox/Sci Fi,9.0,235211,76.0,97.0,"['adventure', 'drama', 'sci-fi']",TV-14,2002.0,44.0,[76],https://www.imdb.com/title/tt0303461/
+120,Dekalog,BBC,9.0,20117,97.0,95.0,['drama'],TV-MA,1989.0,57.0,[97],https://www.imdb.com/title/tt0092337/
+122,Death Note,Cartoon Network,8.9,206493,100.0,96.0,"['animation', 'crime', 'drama', 'fantasy', 'mystery', 'thriller']",TV-14,2006.0,24.0,[100],https://www.imdb.com/title/tt0877057/
+124,Cowboy Bebop,Cartoon Network,8.9,81811,100.0,96.0,"['animation', 'action', 'adventure', 'drama', 'sci-fi', 'thriller']",TV-14,1998.0,24.0,[100],https://www.imdb.com/title/tt0213338/
+125,Africa,BBC UK,8.9,13070,94.0,,['documentary'],unrated,2013.0,36.0,[nan],https://www.imdb.com/title/tt2571774/
+127,When They See Us,Netflix,8.9,67742,96.0,91.0,"['biography', 'crime', 'drama', 'history']",TV-MA,2019.0,29.0,[96],https://www.imdb.com/title/tt7137906/
+128,Last Week Tonight with John Oliver,HBO,8.9,73597,98.0,88.0,"['comedy', 'news', 'talk-show']",TV-MA,2014.0,30.0,"[94, 100, nan, 100, 100, nan, nan]",https://www.imdb.com/title/tt3530232/
+130,Only Fools and Horses....,BBC One,8.8,43752,100.0,,['comedy'],TV-PG,1981.0,30.0,"[nan, nan, nan, nan, nan, nan, nan]",https://www.imdb.com/title/tt0081912/
+131,Hunter x Hunter,Crunchyroll ,8.8,43239,94.0,,"['animation', 'action', 'adventure', 'comedy', 'fantasy']",TV-14,2011.0,24.0,"[nan, nan, nan, nan, nan, nan]",https://www.imdb.com/title/tt2098220/
+132,Monty Python's Flying Circus,BBC,8.8,64011,100.0,91.0,['comedy'],TV-14,1969.0,30.0,"[100, nan, nan, 100]",https://www.imdb.com/title/tt0063929/
+133,Das Boot,Hulu,8.8,24572,85.0,78.0,"['drama', 'thriller', 'war']",TV-MA,1985.0,50.0,[85],https://www.imdb.com/title/tt0081834/
+134,Seinfeld,NBC,8.8,239513,88.0,95.0,['comedy'],TV-PG,1989.0,22.0,"[100, 100, 100, 100, 80, 100, 86, 59]",https://www.imdb.com/title/tt0098904/
+135,Pride and Prejudice,BBC One,8.8,71732,88.0,95.0,"['drama', 'romance']",TV-PG,1995.0,32.0,[88],https://www.imdb.com/title/tt0112130/
+136,Gravity Falls,Disney,8.8,62530,100.0,97.0,"['animation', 'action', 'adventure', 'comedy', 'family', 'fantasy', 'mystery', 'sci-fi']",TV-Y7,2012.0,23.0,"[100, 100]",https://www.imdb.com/title/tt1865718/
+137,Twin Peaks,ABC/Showtime,8.8,164116,89.0,89.0,"['crime', 'drama', 'mystery', 'thriller']",TV-MA,1990.0,47.0,"[93, 82, 94]",https://www.imdb.com/title/tt0098936/
+138,Over the Garden Wall,Cartoon Network,8.8,34460,91.0,99.0,"['animation', 'adventure', 'drama', 'family', 'fantasy', 'horror', 'mystery', 'thriller']",TV-PG,2014.0,11.0,[91],https://www.imdb.com/title/tt3718778/
+139,One Punch Man,Netflix (season 1); Hulu,8.8,99973,100.0,96.0,"['animation', 'action', 'comedy', 'fantasy', 'sci-fi']",TV-PG,2015.0,24.0,"[100, nan]",https://www.imdb.com/title/tt4508902/
+140,Nathan for You,Comedy Central,8.8,16218,97.0,94.0,"['documentary', 'comedy']",TV-14,2013.0,30.0,"[89, 100, 100, nan, 100]",https://www.imdb.com/title/tt2297757/
+142,Blackadder Goes Forth,BBC One,8.7,46162,100.0,100.0,"['comedy', 'war']",TV-PG,1989.0,17.0,"[100, nan]",https://www.imdb.com/title/tt0096548/
+143,Freaks and Geeks,NBC,8.7,123427,100.0,95.0,"['comedy', 'drama']",TV-14,1999.0,44.0,[100],https://www.imdb.com/title/tt0193676/
+145,Fawlty Towers,BBC Two,8.7,80669,100.0,92.0,['comedy'],TV-PG,1975.0,30.0,"[100, nan]",https://www.imdb.com/title/tt0072500/
+146,Arrested Development,Netflix,8.7,265792,75.0,81.0,['comedy'],TV-14,2003.0,22.0,"[100, 94, 100, 27, 56]",https://www.imdb.com/title/tt0367279/
+147,Attack on Titan,Netflix/Cartoon Network/Funimation,8.7,137508,94.0,93.0,"['animation', 'action', 'adventure', 'drama', 'fantasy', 'horror']",TV-MA,2013.0,24.0,"[83, 100, 100]",https://www.imdb.com/title/tt2560140/
+148,Chappelle's Show,Comedy Central,8.7,50193,96.0,100.0,"['comedy', 'music']",TV-MA,2003.0,22.0,"[100, 100, 88]",https://www.imdb.com/title/tt0353049/
+149,It's Always Sunny in Philadelphia,"FX (seasons 1-8), FXX",8.7,180295,96.0,93.0,['comedy'],TV-MA,2005.0,22.0,"[100, 100, 100, 100, 100, 93, 94, 89]",https://www.imdb.com/title/tt0472954/
+150,Rome,HBO,8.7,147871,85.0,98.0,"['action', 'drama', 'history', 'romance', 'war']",TV-MA,2005.0,52.0,"[83, 88]",https://www.imdb.com/title/tt0384766/
+151,House of Cards,Netflix,8.7,448383,77.0,76.0,['drama'],TV-MA,2013.0,51.0,"[86, 83, 74, 86, 71, 67]",https://www.imdb.com/title/tt1856010/
+154,Oz,HBO,8.7,85006,89.0,91.0,"['crime', 'drama', 'thriller']",TV-MA,1997.0,55.0,"[67, 100, 100, nan, nan, 91]",https://www.imdb.com/title/tt0118421/
+155,The West Wing,NBC,8.7,58992,75.0,95.0,['drama'],TV-14,1999.0,44.0,"[95, 81, 64, 86, 62, 50, 92]",https://www.imdb.com/title/tt0200276/
+157,Steins;Gate,AT-X,8.7,37748,100.0,98.0,"['animation', 'comedy', 'drama', 'romance', 'sci-fi', 'thriller']",TV-14,2011.0,24.0,[100],https://www.imdb.com/title/tt1910272/
+158,Dragon Ball Z,Syndicated,8.7,107061,91.0,,"['animation', 'action', 'adventure', 'fantasy', 'sci-fi', 'thriller']",TV-PG,1996.0,24.0,"[nan, 100, nan, nan, nan, nan, nan, nan]",https://www.imdb.com/title/tt0214341/
+159,Cobra Kai,YouTube Premium,8.7,39529,94.0,97.0,"['action', 'comedy', 'drama', 'sport']",TV-14,2018.0,30.0,"[100, 88, nan]",https://www.imdb.com/title/tt7221388/
+161,"I, Claudius",PBS,8.7,14977,100.0,80.0,"['biography', 'drama', 'history']",unrated,1976.0,65.0,[100],https://www.imdb.com/title/tt0074006/
+162,The Marvelous Mrs. Maisel,Amazon,8.7,65756,89.0,87.0,"['comedy', 'drama']",TV-MA,2017.0,57.0,"[94, 91, 82]",https://www.imdb.com/title/tt5788792/
+163,One Strange Rock,NGC,8.7,5502,83.0,93.0,['documentary'],TV-PG,2018.0,47.0,"[83, nan]",https://www.imdb.com/title/tt7651892/
+167,Fleabag,Amazon Prime Video,8.7,67933,100.0,93.0,"['comedy', 'drama']",TV-MA,2016.0,27.0,"[100, 100]",https://www.imdb.com/title/tt5687612/
+169,The Jinx: The Life and Deaths of Robert Durst,HBO,8.7,36320,95.0,97.0,"['documentary', 'crime']",TV-14,2015.0,27.0,[95],https://www.imdb.com/title/tt4299972/
+170,The Adventures of Sherlock Holmes,PBS,8.7,18823,100.0,,"['crime', 'drama', 'mystery']",TV-PG,1984.0,60.0,"[nan, nan, nan, nan, nan]",https://www.imdb.com/title/tt0086661/
+171,Six Feet Under,HBO,8.7,115245,81.0,97.0,"['comedy', 'drama']",TV-MA,2001.0,55.0,"[89, 79, 90, 50, 97]",https://www.imdb.com/title/tt0248654/
+172,The Thick of It,BBC,8.6,18987,85.0,96.0,['comedy'],TV-MA,2005.0,29.0,"[nan, nan, 83, 88]",https://www.imdb.com/title/tt0459159/
+173,Justice League Unlimited,Cartoon Network,8.6,8399,96.0,,"['animation', 'action', 'adventure', 'fantasy', 'sci-fi']",TV-Y7,2004.0,23.0,"[100, 100, 89]",https://www.imdb.com/title/tt6025022/
+174,South Park,Comedy Central,8.6,317589,81.0,88.0,"['animation', 'comedy']",TV-MA,1997.0,22.0,"[100, 60, nan, 100, 73, 54, 77, 40]",https://www.imdb.com/title/tt0121955/
+175,BoJack Horseman,Netflix,8.6,93131,93.0,95.0,"['animation', 'comedy', 'drama']",TV-MA,2014.0,25.0,"[69, 100, 100, 97, 98, 96]",https://www.imdb.com/title/tt3398228/
+176,Demon Slayer: Kimetsu No Yaiba,Hulu,8.6,10861,89.0,,"['animation', 'action', 'fantasy', 'thriller']",TV-MA,2019.0,25.0,[nan],https://www.imdb.com/title/tt9335498/
+177,The Promised Neverland,Aniplex,8.6,8864,100.0,,"['animation', 'fantasy', 'horror', 'mystery', 'sci-fi', 'thriller']",TV-14,2019.0,30.0,[nan],https://www.imdb.com/title/tt8788458/
+181,Battlestar Galactica,SyFy,8.6,146726,95.0,93.0,"['action', 'adventure', 'drama', 'sci-fi']",TV-14,2004.0,44.0,"[91, 100, 100, 92]",https://www.imdb.com/title/tt0407362/
+184,Top Gear,BBCA,8.6,104959,71.0,,['talk-show'],TV-PG,2002.0,60.0,"[nan, nan, nan, 86, 80, nan, 70, nan]",https://www.imdb.com/title/tt1628033/
+185,The Shield,FX,8.6,68651,90.0,96.0,"['crime', 'drama', 'thriller']",TV-MA,2002.0,47.0,"[95, 92, 93, 82, 100, 76, 97]",https://www.imdb.com/title/tt0286486/
+186,The Haunting of Hill House,Netflix,8.6,142565,93.0,91.0,"['drama', 'horror', 'mystery', 'thriller']",TV-MA,2018.0,50.0,"[93, nan]",https://www.imdb.com/title/tt6763664/
+187,Deadwood,HBO,8.6,89915,92.0,96.0,"['crime', 'drama', 'history', 'western']",TV-MA,2004.0,55.0,"[85, 96, 95]",https://www.imdb.com/title/tt0348914/
+188,The Grand Tour,Amazon,8.6,59210,69.0,95.0,"['comedy', 'talk-show']",TV-14,2016.0,60.0,"[90, 57, 60, nan]",https://www.imdb.com/title/tt5712554/
+189,Downton Abbey,PBS,8.6,152727,86.0,95.0,"['drama', 'romance']",TV-PG,2010.0,58.0,"[92, 100, 83, 73, 82, 91]",https://www.imdb.com/title/tt1606375/
+190,Lonesome Dove,CBS,8.6,19459,100.0,,"['adventure', 'drama', 'western']",TV-14,1989.0,38.0,[nan],https://www.imdb.com/title/tt0096639/
+191,Berserk,Nippon Television,8.6,26056,93.0,,"['animation', 'action', 'adventure', 'fantasy', 'horror', 'romance']",TV-14,1997.0,23.0,[nan],https://www.imdb.com/title/tt0318871/
+192,Blackadder II,BBC One,8.6,41091,100.0,,['comedy'],TV-PG,1986.0,17.0,[100],https://www.imdb.com/title/tt0088484/
+193,Bron/Broen,SVT,8.6,53646,95.0,,"['crime', 'mystery', 'thriller']",TV-MA,2011.0,60.0,"[nan, nan, nan, 62]",https://www.imdb.com/title/tt1733785/
+194,The X-Files,FOX,8.6,190531,74.0,85.0,"['crime', 'drama', 'mystery', 'sci-fi', 'thriller']",TV-14,1993.0,45.0,"[100, 67, 83, 75, 67, 22, 63, 77]",https://www.imdb.com/title/tt0106179/
+195,Star Trek: The Next Generation,SYN,8.6,93634,89.0,89.0,"['action', 'adventure', 'mystery', 'sci-fi']",TV-PG,1987.0,44.0,"[79, 50, 100, 100, 100, 100, 100]",https://www.imdb.com/title/tt0092455/
+197,Archer,FX,8.6,130732,91.0,86.0,"['animation', 'action', 'comedy']",TV-MA,2009.0,22.0,"[91, 95, 100, 91, 100, 86, 67, 91]",https://www.imdb.com/title/tt1486217/
+198,Atlanta,FX,8.6,45280,97.0,89.0,"['comedy', 'drama', 'music']",TV-MA,2016.0,30.0,"[97, 98, nan]",https://www.imdb.com/title/tt4288182/
+199,Line of Duty,Acorn TV,8.6,26793,97.0,95.0,"['crime', 'drama', 'mystery', 'thriller']",unrated,2012.0,60.0,"[100, 100, 100, 100, 88, nan]",https://www.imdb.com/title/tt2303687/
+200,Friday Night Lights,NBC,8.6,53371,97.0,93.0,"['drama', 'sport']",TV-14,2006.0,44.0,"[94, 92, 100, 100, 100]",https://www.imdb.com/title/tt0758745/
+201,Young Justice,Cartoon Network (Season 1-2) DC Universe (Season 3-),8.6,29599,95.0,93.0,"['animation', 'action', 'adventure', 'crime', 'romance', 'sci-fi']",TV-PG,2010.0,23.0,"[90, 100, 95, nan]",https://www.imdb.com/title/tt1641384/
+202,Code Geass: Lelouch of the Rebellion,Cartoon Network,8.6,44570,100.0,,"['animation', 'action', 'drama', 'mystery', 'sci-fi', 'thriller', 'war']",TV-14,2006.0,24.0,"[nan, nan]",https://www.imdb.com/title/tt0994314/
+204,Dexter,Showtime,8.6,619651,72.0,80.0,"['crime', 'drama', 'mystery', 'thriller']",TV-MA,2006.0,53.0,"[82, 96, 72, 88, 88, 40, 79, 33]",https://www.imdb.com/title/tt0773262/
+206,Blackadder the Third,BBC One,8.6,39217,83.0,,['comedy'],TV-PG,1987.0,18.0,[83],https://www.imdb.com/title/tt0092324/
+207,Daredevil,Netflix,8.6,345721,92.0,92.0,"['action', 'crime', 'drama', 'fantasy', 'sci-fi', 'thriller']",TV-MA,2015.0,54.0,"[99, 81, 97]",https://www.imdb.com/title/tt3322312/
+208,QI,BBC One,8.6,28638,100.0,,"['comedy', 'game-show']",TV-PG,2003.0,30.0,"[nan, nan, nan, nan, nan, nan, nan, nan]",https://www.imdb.com/title/tt0380136/
+209,Through the Wormhole,Science,8.6,16324,100.0,,['documentary'],TV-PG,2010.0,60.0,"[80, nan, nan, nan, nan, nan, nan, nan]",https://www.imdb.com/title/tt1513168/
+210,Mindhunter,Netflix,8.6,183355,97.0,95.0,"['crime', 'drama', 'thriller']",TV-MA,2017.0,60.0,"[97, 98]",https://www.imdb.com/title/tt5290382/
+213,Making a Murderer,Netflix,8.6,82072,84.0,98.0,"['documentary', 'crime']",TV-14,2015.0,60.0,"[98, 71]",https://www.imdb.com/title/tt5189670/
+215,Peep Show,Channel Four,8.6,49377,96.0,93.0,['comedy'],TV-MA,2003.0,25.0,"[nan, nan, nan, 89, 100, 100, 90, 100]",https://www.imdb.com/title/tt0387764/
+217,The Eric Andre Show,Cartoon Network,8.6,10945,88.0,,"['comedy', 'talk-show']",TV-MA,2012.0,11.0,"[nan, nan, nan, nan]",https://www.imdb.com/title/tt2244495/
+219,Father Ted,Channel 4,8.6,34750,93.0,100.0,['comedy'],TV-14,1995.0,25.0,"[86, nan, 100]",https://www.imdb.com/title/tt0111958/
+220,Sacred Games,Netflix,8.6,65258,92.0,84.0,"['action', 'crime', 'drama', 'thriller']",TV-MA,2018.0,50.0,"[92, nan]",https://www.imdb.com/title/tt6077448/
+222,Formula 1: Drive to Survive,Netflix,8.5,12609,79.0,,"['documentary', 'sport']",TV-MA,2019.0,40.0,"[nan, nan]",https://www.imdb.com/title/tt8289930/
+223,The Newsroom,HBO,8.5,99716,59.0,89.0,['drama'],TV-MA,2012.0,55.0,"[47, 69, 61]",https://www.imdb.com/title/tt1870479/
+224,Spaced,Channel 4,8.5,48126,100.0,95.0,"['action', 'comedy']",TV-14,1999.0,25.0,"[100, 100]",https://www.imdb.com/title/tt0187664/
+225,Yes Minister,BBC Two,8.5,11685,100.0,,['comedy'],TV-PG,1980.0,30.0,"[nan, nan, 100]",https://www.imdb.com/title/tt0080306/
+228,Umbre,HBO,8.5,7812,50.0,,"['crime', 'drama', 'thriller']",unrated,2014.0,45.0,"[nan, nan, nan]",https://www.imdb.com/title/tt4269716/
+230,Skam,WEB TV US,8.5,25648,92.0,,"['drama', 'romance']",unrated,2015.0,30.0,"[100, nan, nan, nan]",https://www.imdb.com/title/tt5288312/
+235,Fullmetal Alchemist,Cartoon Network,8.5,58287,94.0,,"['animation', 'action', 'adventure', 'comedy', 'drama', 'fantasy', 'sci-fi']",TV-PG,2003.0,24.0,[nan],https://www.imdb.com/title/tt0421357/
+236,Justified,FX,8.5,81215,97.0,95.0,"['action', 'crime', 'drama', 'mystery', 'thriller', 'western']",TV-MA,2010.0,44.0,"[93, 100, 96, 100, 96, 100]",https://www.imdb.com/title/tt1489428/
+237,Dragon Ball,Fuji TV,8.5,44161,72.0,,"['animation', 'action', 'adventure', 'comedy', 'fantasy', 'sci-fi', 'thriller']",TV-Y7,1986.0,24.0,"[nan, nan, nan, nan, nan, nan, nan, nan]",https://www.imdb.com/title/tt0088509/
+238,"Love, Death & Robots",Netflix,8.5,80258,77.0,91.0,"['animation', 'short', 'comedy', 'fantasy', 'horror', 'sci-fi']",TV-MA,2019.0,15.0,"[77, nan]",https://www.imdb.com/title/tt9561862/
+241,Justice League,Cartoon Network,8.5,38843,95.0,98.0,"['animation', 'action', 'adventure', 'drama', 'family', 'fantasy', 'mystery', 'thriller']",TV-PG,2001.0,22.0,"[91, 100]",https://www.imdb.com/title/tt0275137/
+242,Adventure Time,Cartoon Network,8.5,70973,100.0,94.0,"['animation', 'action', 'adventure', 'comedy', 'family', 'fantasy', 'sci-fi']",TV-PG,2010.0,11.0,"[nan, 100, 100, 100, 100, 100, nan, 100]",https://www.imdb.com/title/tt1305826/
+243,Boardwalk Empire,HBO,8.5,165791,92.0,96.0,"['crime', 'drama', 'history']",TV-MA,2010.0,55.0,"[95, 91, 89, 98, 88]",https://www.imdb.com/title/tt0979432/
+244,Chef's Table,Netflix,8.5,11959,81.0,,['documentary'],TV-MA,2015.0,50.0,"[nan, nan, nan, nan, nan, nan, nan, nan]",https://www.imdb.com/title/tt4295140/
+247,Samurai Champloo,Cartoon Network,8.5,37335,88.0,93.0,"['animation', 'action', 'adventure', 'comedy', 'drama', 'thriller']",TV-MA,2004.0,23.0,"[88, nan]",https://www.imdb.com/title/tt0423731/
+248,Flight of the Conchords,HBO,8.5,52964,94.0,98.0,"['comedy', 'music', 'musical']",TV-MA,2007.0,28.0,"[95, 94]",https://www.imdb.com/title/tt0863046/
+250,Anne with an E,Netflix,8.5,24700,60.0,89.0,['drama'],TV-PG,2017.0,60.0,"[83, 38, nan]",https://www.imdb.com/title/tt5421602/
+251,"Yes, Prime Minister",BBC Two,8.5,8939,100.0,,['comedy'],TV-PG,1986.0,30.0,"[nan, nan]",https://www.imdb.com/title/tt0086831/
+252,Mystery Science Theater 3000,Netflix,8.5,22456,100.0,91.0,"['comedy', 'sci-fi']",TV-14,1988.0,92.0,"[100, 100]",https://www.imdb.com/title/tt0094517/
+253,The Defiant Ones,HBO,8.5,10228,100.0,92.0,"['documentary', 'biography', 'crime', 'music']",unrated,2017.0,60.0,[100],https://www.imdb.com/title/tt6958022/
+254,Generation Kill,HBO,8.5,45440,86.0,100.0,"['drama', 'war']",TV-MA,2008.0,70.0,[86],https://www.imdb.com/title/tt0995832/
+256,The IT Crowd,Channel 4,8.5,125549,78.0,96.0,['comedy'],TV-14,2006.0,25.0,[],https://www.imdb.com/title/tt0487831/
+257,Coupling,BBC,8.5,41520,100.0,,"['comedy', 'romance']",TV-14,2000.0,30.0,"[nan, nan, nan, nan]",https://www.imdb.com/title/tt0237123/
+258,Louie,FX,8.5,72556,94.0,95.0,"['comedy', 'drama']",TV-MA,2010.0,22.0,"[88, 100, 100, 93, 92]",https://www.imdb.com/title/tt1492966/
+259,The Night Of,HBO,8.5,108319,94.0,93.0,"['crime', 'drama', 'mystery']",TV-MA,2016.0,52.0,[94],https://www.imdb.com/title/tt2401256/
+260,Mr. Bean,HBO,8.5,95269,100.0,93.0,"['comedy', 'family']",TV-G,1990.0,35.0,[100],https://www.imdb.com/title/tt0096657/
+261,Big Little Lies,HBO,8.5,135667,89.0,89.0,"['crime', 'drama', 'mystery']",TV-MA,2017.0,60.0,"[93, 85]",https://www.imdb.com/title/tt3920596/
+262,Impractical Jokers,TruTV,8.5,30811,96.0,,"['comedy', 'reality-tv']",TV-14,2011.0,30.0,"[100, nan, nan, nan, nan, nan, nan]",https://www.imdb.com/title/tt2100976/
+263,Alfred Hitchcock Presents,NBC,8.5,13963,91.0,,"['comedy', 'crime', 'drama', 'horror', 'mystery', 'thriller']",TV-14,1955.0,25.0,"[100, nan, nan, nan, nan, nan, nan]",https://www.imdb.com/title/tt0047708/
+264,Silicon Valley,HBO,8.5,116879,94.0,92.0,['comedy'],TV-MA,2014.0,28.0,"[95, 96, 100, 94, 89, 94]",https://www.imdb.com/title/tt2575988/
+265,Endeavour,PBS,8.5,16316,86.0,94.0,"['crime', 'drama', 'mystery']",TV-14,2012.0,89.0,"[86, 57, 83, nan, nan, 100, 90, 100]",https://www.imdb.com/title/tt2701582/
+266,Whose Line Is It Anyway?,CW,8.5,38823,100.0,,"['comedy', 'game-show']",TV-PG,1998.0,30.0,"[nan, nan, nan, nan, nan, nan, nan, nan]",https://www.imdb.com/title/tt0163507/
+267,Detectorists,Acorn,8.5,9448,100.0,99.0,['comedy'],unrated,2014.0,30.0,"[100, 100, 100]",https://www.imdb.com/title/tt4082744/
+268,Homicide: Life on the Street,NBC,8.5,11053,91.0,100.0,"['crime', 'drama', 'mystery', 'thriller']",TV-14,1993.0,60.0,"[100, 100, 83, nan, nan, nan, 83]",https://www.imdb.com/title/tt0106028/
+269,Horace and Pete,louisck.net,8.5,14035,96.0,93.0,"['comedy', 'drama']",TV-MA,2016.0,67.0,[96],https://www.imdb.com/title/tt5425186/
+270,Spartacus: Gods of the Arena,Starz,8.5,121267,57.0,93.0,"['action', 'adventure', 'biography', 'drama', 'history', 'romance']",TV-MA,2011.0,33.0,[57],https://www.imdb.com/title/tt1758429/
+271,Letterkenny,Hulu,8.5,10842,93.0,,['comedy'],TV-MA,2016.0,30.0,"[100, nan, nan, nan, nan, nan, nan, nan]",https://www.imdb.com/title/tt4647692/
+272,The Punisher,Netflix,8.5,167369,63.0,82.0,"['action', 'adventure', 'crime', 'drama', 'sci-fi', 'thriller']",TV-MA,2017.0,53.0,"[67, 60]",https://www.imdb.com/title/tt5675620/
+273,Hannibal,NBC,8.5,212958,92.0,94.0,"['crime', 'drama', 'horror', 'mystery', 'thriller']",TV-14,2013.0,44.0,"[82, 98, 98]",https://www.imdb.com/title/tt2243973/
+274,John Adams,HBO,8.5,26602,81.0,88.0,"['biography', 'drama', 'history']",TV-14,2008.0,71.0,[81],https://www.imdb.com/title/tt0472027/
+275,Black Books,Channel 4,8.5,51727,93.0,100.0,['comedy'],TV-PG,2000.0,25.0,"[86, nan, 100]",https://www.imdb.com/title/tt0262150/
+276,I'm Alan Partridge,BBC Two,8.5,17612,100.0,,['comedy'],TV-MA,1997.0,29.0,"[nan, nan]",https://www.imdb.com/title/tt0129690/
+277,The Family Man,Amazon Prime Video,8.5,17160,93.0,,"['action', 'comedy', 'drama']",unrated,2019.0,45.0,[nan],https://www.imdb.com/title/tt9544034/
+278,Queer Eye,Netflix,8.5,13206,91.0,90.0,['reality-tv'],TV-14,2018.0,45.0,"[97, 87, 92, 91, nan]",https://www.imdb.com/title/tt7259746/
+281,Erased,Netflix,8.5,21474,100.0,94.0,"['animation', 'drama', 'fantasy', 'mystery', 'sci-fi', 'thriller']",TV-14,2016.0,30.0,[100],https://www.imdb.com/title/tt5249462/
+282,Spartacus,Starz,8.5,213959,67.0,87.0,"['action', 'adventure', 'biography', 'drama', 'history', 'romance']",TV-MA,2010.0,55.0,"[52, 82, 69]",https://www.imdb.com/title/tt1442449/
+284,Pose,FX,8.5,14383,96.0,87.0,['drama'],TV-MA,2018.0,60.0,"[96, 97]",https://www.imdb.com/title/tt7562112/
+286,The Dark Crystal: Age of Resistance,Netflix,8.5,18230,88.0,95.0,"['adventure', 'drama', 'family', 'fantasy', 'sci-fi']",TV-PG,2019.0,60.0,[88],https://www.imdb.com/title/tt6905542/
+287,My Hero Academia,Crunchyroll ,8.5,24780,100.0,88.0,"['animation', 'action', 'adventure', 'comedy', 'fantasy', 'sci-fi']",TV-14,2016.0,24.0,"[100, nan, 100, nan]",https://www.imdb.com/title/tt5626028/
+288,Luther,BBC,8.4,113587,88.0,86.0,"['crime', 'drama', 'mystery', 'thriller']",TV-MA,2010.0,60.0,"[91, 100, 88, 79, 85]",https://www.imdb.com/title/tt1474684/
+290,The Knick,Cinemax,8.4,41494,92.0,97.0,"['drama', 'history']",TV-MA,2014.0,58.0,"[87, 97]",https://www.imdb.com/title/tt2937900/
+293,The Venture Bros.,Cartoon Network,8.4,22678,92.0,97.0,"['animation', 'comedy', 'sci-fi']",TV-MA,2003.0,22.0,"[55, nan, 100, 100, 100, 100, 100]",https://www.imdb.com/title/tt0417373/
+297,Wentworth,Channel 5,8.4,15792,98.0,,"['crime', 'drama']",TV-MA,2013.0,45.0,"[75, nan, nan, nan, nan, nan, nan, nan]",https://www.imdb.com/title/tt2433738/
+298,Samurai Jack,Cartoon Network,8.4,42659,93.0,95.0,"['animation', 'action', 'adventure', 'drama', 'fantasy', 'sci-fi', 'thriller']",TV-14,2001.0,25.0,"[80, nan, nan, 100, 100]",https://www.imdb.com/title/tt0278238/
+299,Generation War,ZDF,8.4,23639,100.0,,"['action', 'drama', 'history', 'war']",TV-MA,2013.0,14.0,[nan],https://www.imdb.com/title/tt1883092/
+303,Mushi-Shi,Fuji TV,8.4,11125,100.0,100.0,"['animation', 'drama', 'fantasy', 'horror', 'mystery', 'thriller']",TV-14,2005.0,24.0,"[100, nan]",https://www.imdb.com/title/tt0807832/
+304,Inside No. 9,BBC Two,8.4,10718,100.0,93.0,"['comedy', 'drama', 'horror']",TV-MA,2014.0,30.0,"[100, 100, nan, 100, 100, 100]",https://www.imdb.com/title/tt2674806/
+306,X-Men: The Animated Series,FOX,8.4,36051,85.0,97.0,"['animation', 'action', 'family', 'sci-fi', 'thriller']",TV-Y7,1992.0,23.0,"[100, nan, 100, nan, 56]",https://www.imdb.com/title/tt0103584/
+307,Futurama,Comedy Central,8.4,205817,95.0,96.0,"['animation', 'comedy', 'sci-fi']",TV-14,1999.0,22.0,"[89, nan, nan, nan, 100, 100, 92, nan]",https://www.imdb.com/title/tt0149460/
+308,Ezel,Netflix,8.4,23671,100.0,,"['crime', 'drama', 'thriller']",TV-14,2009.0,90.0,"[nan, nan]",https://www.imdb.com/title/tt1534360/
+309,American Crime Story,FX,8.4,74208,93.0,94.0,"['biography', 'crime', 'drama']",TV-MA,2016.0,42.0,"[97, 89]",https://www.imdb.com/title/tt2788432/
+310,Delhi Crime,Netflix,8.4,8273,92.0,93.0,"['crime', 'drama']",unrated,2019.0,50.0,[92],https://www.imdb.com/title/tt9398466/
