@@ -5,12 +5,12 @@ How can Microsoft maximize its share of the market in movie and television conte
 
 # List of Files
 
-television_workbook.ipynb - Jupyter Notebook for television data exploration.
+**television_workbook.ipynb** - Jupyter Notebook for television data exploration.
 
-top_television_data.csv - Starting file for television data.
+**top_television_data.csv** - Starting file for television data.
 
-top_television_data_updated.csv - Cleaned dataset with all years, outliers removed.
+**top_television_data_updated.csv** - Cleaned dataset with all years, outliers removed.
 
-top_contemporary_television_2010.csv - Cleaned dataset with only 2010 and beyond, outliers removed.
+**top_contemporary_television_2010.csv** - Cleaned dataset with only 2010 and beyond, outliers removed.
 
 
