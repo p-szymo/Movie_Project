@@ -15,6 +15,8 @@ How can Microsoft maximize its share of the market in movie and television conte
 
 **Movies_Box.csv** - CSV file for box office data by movie.
 
+**Microsoft_ Optimizing_Entertainment Industry_Entry.pdf** - Presentation for Microsoft executive with our findings.
+
 **television_workbook.ipynb** - Jupyter Notebook for television data exploration.
 
 **top_television_data.csv** - Initial CSV file for television data.
