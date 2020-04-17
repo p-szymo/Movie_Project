@@ -13,4 +13,8 @@ How can Microsoft maximize its share of the market in movie and television conte
 
 **top_contemporary_television_2010.csv** - Cleaned dataset with only 2010 and beyond, outliers removed.
 
+**archives** folder - Includes scratch notebooks and two folders:
+  **webscraping_stuff**: webscraping workbooks and functions files
+  and
+  **old_csvs**: initial datasets that may come in handy later :)
 
