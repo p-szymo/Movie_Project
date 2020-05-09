@@ -1,4 +1,4 @@
-# Movie_Project
+# Microsoft Content Creation Recommendations
 
 How can Microsoft maximize its share of the market in movie and television content creation? We explore what metrics and variables may account for a successful launch as a producer of original content. We began by scraping box office data from Box Office Mojo and The Numbers, as well as television critic ratings information from IMDB and Rotten Tomatoes. We then moved this data into Pandas dataframes and performed exploratory data analysis using Matplotlib.
 
