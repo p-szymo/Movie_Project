@@ -5,9 +5,9 @@ How can Microsoft maximize its share of the market in movie and television conte
 
 # List of Files
 
-**Box_Office_DF.ipynb** - Jupyter Notebook for box office dataframes and data exploration.
+**movie_workbook.ipynb** - Jupyter Notebook for box office dataframes and data exploration.
 
-**Microsoft_ Optimizing_Entertainment Industry_Entry.pdf** - Presentation for Microsoft executive with our findings.
+**presentation.pdf** - Presentation for Microsoft executive with our findings.
 
 **television_workbook.ipynb** - Jupyter Notebook for television data exploration.
 
