@@ -20,3 +20,5 @@ How can Microsoft maximize its share of the market in movie and television conte
 **data** folder - Movie and television csv files.
 
 **images** folder - Image files of our data visualizations.
+
+## [Blog Post](https://medium.com/@joshua.szymanowski/optimizing-entry-into-content-creation-7bd0735dce6b)
